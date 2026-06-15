@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Cache and temporary files
+cache/
+*.tmp
+*.temp
+
+# Models and large artifacts
+models/
+*.joblib
+*.pkl
+
+# Dataset artifacts
+Yoga Postures Dataset/
+
+# Media files
+*.mp4
+*.mov
+*.avi
+
+# Secrets
+*.key
+*.pem
+.env
+
+# Python compiled files
+*.so
+*.dylib
